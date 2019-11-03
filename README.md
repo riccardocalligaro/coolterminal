@@ -1,5 +1,7 @@
 # This amazing terminal in Windows 🔥
 
+<img src="https://i.imgur.com/E7GdYni.png">
+
 To achieve this result there quite many steps:
 
 1. Install Linux 🐧 subsistem on Windows
