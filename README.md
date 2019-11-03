@@ -1,4 +1,4 @@
-# This amazing terminal in Windows 🔥
+# Setup this amazing terminal in Windows 🔥
 
 <img src="https://i.imgur.com/E7GdYni.png">
 
